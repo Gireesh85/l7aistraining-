@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'l7aistrainingapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_27BC869E5A3E4719B56E10064F6B8DA0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F2CA93219D3441F1A37CDDF47A984823 }}
           package: .
